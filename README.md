@@ -2,10 +2,11 @@ ECEN602 HW2 Programming Assignment (TFTP protocol implementation)
 -----------------------------------------------------------------
 
 Team Number: 17
+---------------------------------------
 Member 1 # Yuanfei Sun (925001742)
 Member 2 # Ishwarya Srinivasan (226002460)
 Member 3 # Archana Sasikumar (825008646)
----------------------------------------
+
 
 Description:
 --------------------
